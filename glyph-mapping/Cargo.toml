@@ -6,4 +6,4 @@ edition                 = "2021"
 repository              = "https://github.com/ferristseng/rust-embedded-graphics-cjk"
 
 [dependencies]
-embedded-graphics       = "0.7"
+embedded-graphics       = "0.8.1"
